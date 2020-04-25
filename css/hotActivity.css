@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.active li{
+    list-style: none;
+    padding: 10px;
+}
+.top{
+    width: 700px;
+    padding: 10px;
+    font-family: 'Times New Roman', '宋体';
+    margin: 0px auto;
+}
+.left{
+    float: left;
+    font-size: 18px;
+}
+.right{
+    float: right;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+ul{
+    padding:20px ;
+}
+ul li{
+    float: left;
+}

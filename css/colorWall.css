@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.colorWall{
+    width: 800px;
+    margin: 0px auto;
+}
+.colorWall li{
+    list-style: none;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius:5px;
+}
+.colorWall img{
+    width: 158px;
+}
+li:hover{
+    border-color: red;
+}
